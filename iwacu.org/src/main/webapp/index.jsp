@@ -27,7 +27,7 @@ MTN customers are at the heart of what we do, we guarantee to deliver the change
 <p>the data you are about to access is private,you need level 3 clearance.
 </p>
 <h1><a href="login.jsp">sign in</a></h1>
-<img class= mypicture alt="MTN logo" src="${pageContext.request.contextPath}//img//logo.png">
+
  </div>
 </body>
 </html>
